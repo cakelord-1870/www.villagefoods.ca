@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.villagefoods.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.villagefoods.ca/collections/tea-mix.atom"/>
+  <title>Village Foods Montreal </title>
+  <updated>2020-11-24T21:19:29-05:00</updated>
+  <author>
+    <name>Village Foods Montreal </name>
+  </author>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4811040850005</id>
+    <published>2020-11-24T21:19:29-05:00</published>
+    <updated>2020-11-24T21:19:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/earl-grey-pyramid-teabags"/>
+    <title>Earl Grey Pyramid Teabags</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Tea-earl-grey-pyramids.jpg?v=1605913224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Earl Grey tea is a tea blend flavored with oil of bergamot to give Earl Grey its special unique taste. Basically Earl Grey was made from black teas intended to be drunk as is. Milk or cream is a welcome addition.<br>Storage: Store in a dry place.</p>
+<p>Earl Grey tea bags ( x 20 Triangular TeaBags)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earl Grey</s:tag>
+    <s:tag>fbtt4_earl-grey-combo-gift</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4811040850005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>424654-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4811039539285</id>
+    <published>2020-11-24T21:09:32-05:00</published>
+    <updated>2020-11-24T21:09:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/copy-of-green-tea-jasmine"/>
+    <title>Green Tea-Jasmine Pyramid Teabags</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Tea-greentea-jasmine-pyramids.jpg?v=1605913014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Jasmine tea has green tea as the tea base; however, The resulting combition results in a subtly sweet and highly fragrant flavor. It is one of the most famous scented tea around. </span>Store in a dry place<br></p>
+<p><span>Storage: Store in a dry place </span></p>
+<p><span>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span></p>
+<p>Green Tea - Jasmine tea bags ( x 20 Triangular TeaBags)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4811039539285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>424647-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4782067023957</id>
+    <published>2020-10-05T06:57:33-04:00</published>
+    <updated>2020-10-05T06:57:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/village-sampler-pack"/>
+    <title>Village Tea Sampler Pack</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/3-pyramid--tea-bags.jpg?v=1601893786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will receieve a special combo of samples of our Village Tea that is ready to steep in our pyramid Tea Bags.</p>
+<p>5 Teabags of our Earl Grey Blend<br>5 Teabags of Green Tea with Jasmine<br>5 Teabags of Premium Black Tea<br>5 Teabags of Village Green Tea</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915" alt="bio-degradable" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915">Shipped to you in an Eco friendly biodegradable composte Packaging.</p>
+<h6><strong>50% OFF for sampler pack. Please use code tea4usampler @ checkout</strong></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>healthy Tea
+Herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4782067023957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4783835709525</id>
+    <published>2020-10-05T06:57:07-04:00</published>
+    <updated>2020-10-05T06:57:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/village-herbal-tea-sampler-pack"/>
+    <title>Village Herbal Tea Sampler Pack</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/2-pyramid-herbal-tea-bags.jpg?v=1601893744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will receieve a special combo assortment of samples of our Village Herbal Tea that is ready to steep in our pyramid Tea Bags.</p>
+<p>5 Teabags of Chamomile Blend<br>5 Teabags of Green Tea with Jasmine<br>5 Teabags of our Hibiscus Herbal Tisane<br>5 Teabags of Village Rose Herbal Tea</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915" alt="bio-degradable" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915">Shipped to you in an Eco friendly biodegradable composte Packaging.</p>
+<h6><strong>50% OFF for sampler pack. Please use code tea4usampler @ checkout</strong></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>healthy Tea
+Herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4783835709525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2898306826340</id>
+    <published>2019-02-24T15:29:47-05:00</published>
+    <updated>2019-02-24T15:29:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/green-tea"/>
+    <title>Green Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Green_Tea.jpg?v=1600884726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Green Tea is a  hued, delicate tea, fresh, smooth flavor and incredible health benefits. The true essence of this tea will energize you. </span><span>Steeping green tea is easy. Simply heat fresh, filtered water just short of boiling then pour water over the tea leaves and steep for 1-2 minutes. <br>Contents net weight 90 grams / Approx 3.18 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2898306826340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2898296995940</id>
+    <published>2019-02-24T15:28:13-05:00</published>
+    <updated>2019-02-24T15:28:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/black-tea"/>
+    <title>Black Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Black-Tea.jpg?v=1600884647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Tea is a very popular, it is mainly withered tea leaves are rolled and eft to oxidize and dry resulting in a natural flavor, color, and body.<br>Black Tea has numerous health benefits, it has caffeine of more than green tea and you drink it iced or hot.<br>45 seconds to a minute is ideal - if you want the strong taste try 1 - 2 minutes with a higher temperature.<br data-mce-fragment="1"><br><br>Enjoy sweetened with honey or sugar, add milk, or lemon.<br>Contents net weight: 90 grams / Approx 3.2 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2898296995940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>424654</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2898125553764</id>
+    <published>2019-02-24T15:10:31-05:00</published>
+    <updated>2019-02-24T15:10:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/green-tea-jasmine"/>
+    <title>Green Tea-Jasmine</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/GreenTea-Jasmine_c79c04f0-be7d-44ef-9c22-0e1769e0d3b3.jpg?v=1600884726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Jasmine tea has green tea as the tea base; however, The resulting combition results in a subtly sweet and highly fragrant flavor. It is one of the most famous scented tea around. </span>Store in a dry place<br>Contents net weight 90 grams / Approx 3.18 Oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2898125553764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>424647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992125513828</id>
+    <published>2018-12-27T14:45:23-05:00</published>
+    <updated>2018-12-27T14:45:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/forget-me-not"/>
+    <title>White Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/white-tea.jpg?v=1600884802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            9.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White tea basically refer to generally young or minimally processed <span>immature tea leaves picked right before the buds have opened and then allowed to wither and dry in natural sun. Most Powerful Anti-Oxidant, calorie-free, Fat-free, Gluten-free, Extremely low in caffeine.</span></p>
+<p><span>It is the a  delicate tea and needs longer infusion time than other teas. Please allow to steep for 1 - 3 minutes.<br></span>Storage: Store in a dry place</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992125513828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1991904821348</id>
+    <published>2018-12-27T14:22:27-05:00</published>
+    <updated>2018-12-27T14:22:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/earl-grey"/>
+    <title>Earl Grey</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/EarlGrey.jpg?v=1600884705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Earl Grey tea is a tea blend flavored with oil of bergamot to give Earl Grey its special unique taste. Basically Earl Grey was made from black teas intended to be drunk as is. Milk or cream is a welcome addition.<br>Storage: Store in a dry place.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earl Grey</s:tag>
+    <s:tag>fbtt4_earl-grey-combo-gift</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1991904821348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>424654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.villagefoods.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.villagefoods.ca/collections/spices.atom"/>
+  <title>Village Foods Montreal </title>
+  <updated>2020-09-26T14:11:20-04:00</updated>
+  <author>
+    <name>Village Foods Montreal </name>
+  </author>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599835689045</id>
+    <published>2020-09-26T14:11:20-04:00</published>
+    <updated>2020-09-26T14:11:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/zaatar"/>
+    <title>Zaatar</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/zaatar-2000.jpg?v=1601342083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lebanese Zaatar is believed to have great health benefits. Its zesty flavor makes it delicious mixed with olive oil for dip. We have a very special mix that you would really enjoy.<br>Storage: Store in a dry place.Contents net weight 130 grams.<br><span data-mce-fragment="1">Contents Net weight: 130 grams / Approx 4.58 Oz</span>.<span style="font-size: 19.6px;"><br><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599835689045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>427464</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4766868209749</id>
+    <published>2020-09-14T10:20:20-04:00</published>
+    <updated>2020-09-14T10:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/bacon-chips"/>
+    <title>Bacon chips</title>
+    <s:type>Spices and Herbs</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/PHOTO-2020-09-14-10-04-585-removebg-preview.png?v=1600884648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Spices and Herbs<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Simili Bacon Bits is mainly created of Soy Flour, canola oil, salt, flavoring with added color. It is used </span><span>to garnish sandwiches, tossed salads, dips, soups &amp; casseroles and more.<br></span><span>Net weight : 130 grams /  Approx 4.6 Oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4766868209749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4602946846805</id>
+    <published>2020-04-18T15:03:48-04:00</published>
+    <updated>2020-04-18T15:03:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/falafel-mix"/>
+    <title>Falafel Mix</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/falafel-spices.jpg?v=1601226618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Village Foods Falafel Mix is 100% Natural vegetarian product. Mixture of fava beans, chickpeas, salt, dried herbs/ vegetables, minced onion/garlic, sesame seeds and spices<br>No artificial coloring/flavoring agents<br>Net weight : 225 grams / Approx 7.93 Oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4602946846805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4600030232661</id>
+    <published>2020-04-15T15:24:28-04:00</published>
+    <updated>2020-04-15T15:24:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/red-pepper"/>
+    <title>Red Pepper</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Red-Pepper.jpg?v=1601226618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>All natural Red peppercorns are sun-dried. Perfect aroma with a slight lemon flavor of spiciness. Use for perfect cooking crushed or whole, then add them to any of your chicken or beef.<br></span><span>Storage: Store in a dry place<br></span><span data-mce-fragment="1">Contents Net weight 75 grams / Approx 2.64 Oz</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4600030232661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4600020435029</id>
+    <published>2020-04-15T15:24:28-04:00</published>
+    <updated>2020-04-15T15:24:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/bacon-bits"/>
+    <title>Bacon Bits</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Bacon-bits.jpg?v=1601226618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simili Bacon Bits is mainly created of Soy Flour, canola oil, salt, flavoring with added color. It is used <span>to garnish sandwiches, tossed salads, dips, soups &amp; casseroles and more.<br></span>Net weight : 130 grams /  Approx 4.6 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4600020435029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>425590</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599816814677</id>
+    <published>2020-04-15T12:37:24-04:00</published>
+    <updated>2020-04-15T12:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/white-pepper-1"/>
+    <title>White Pepper</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/White-pepper_f437bfd1-36f7-4460-8729-6cb68c98dae8.jpg?v=1600884804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>White peppercorns, are soaked before being dried, the outer layer comes off revealing the smooth and white surface beneath. </span><span><br>Taste / Aroma: Hot<br>Storage: Store in a dry place<br>Contents Net weight: 150 grams / Approx 5.3 Oz<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599816814677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599767466069</id>
+    <published>2020-04-15T12:37:24-04:00</published>
+    <updated>2020-04-15T12:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/cardamom"/>
+    <title>Cardamom</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Cardamom-jar.jpg?v=1600884657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cardamom has a strong, bitter sweet, pungent flavor and aroma, with hints of lemon and mint. Cardamom is the spice made from the seed pods of plants in the ginger group. Cardamom is used to season baked goods, hamburgers and more. It matches well with cinnamon, nutmeg, and cloves in spiced recipes. You can also use Cardamon in coffee drinks.<br>Store in a dry place.<br></span><span>Net weight: 100 grams / Approx 3.5 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>healthy Tea
+Herbal detox</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599767466069</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598698147925</id>
+    <published>2020-04-14T15:28:10-04:00</published>
+    <updated>2020-04-14T15:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/shish-taouk"/>
+    <title>Shish Taouk Spice Mix</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Shish-Taouk-mix.jpg?v=1600884784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> A premium combination of Lebanese speciality spice creating the right Shish Taouk taste for your chicken meal.</p>
+<p><span>Storage: Store in a dry place</span> <br>Contents Net weight  145 grams / Approx  5.11 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>fbtt4_lebanese-spices-combo-bundle</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>Premium mix</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598698147925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>427099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598668984405</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/shawarma-premium-spice-mix"/>
+    <title>Shawarma Premium Spice Mix</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Shawarma-spice.jpg?v=1600884784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mixture blend of spices creating a special Shawarma taste. A special Village bland.</span></p>
+<p><span>Storage: Store in a dry place<br></span><span data-mce-fragment="1">Contents Net weight  160 grams / Approx  5.65 Oz</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>fbtt4_lebanese-spices-combo-bundle</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>Premium mix</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598668984405</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>427198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598659350613</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/pickling-spices"/>
+    <title>Pickling Spices</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Pickling-spices.jpg?v=1600884758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Storage: Store in a dry place<br></span>Contents Net weight  100 grams /  3.53 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598659350613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>427037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598646571093</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/provence-herbs-and-spice"/>
+    <title>French Provence Herbs and Spice</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/herbs-de-provence-spices.jpg?v=1600884717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A Special blend of Multi Spices. <br></span><span>Storage: Store in a dry place<br></span>Contents Net weight 60 grams / Approx 2.12 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herbs</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598646571093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.45</s:price>
+      <s:sku>424296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598628515925</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/lemon-pepper"/>
+    <title>Lemon Pepper</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Lemon-pepper-spices.jpg?v=1600884737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lemon pepper seasoning is a basically made from granulated lemon zest and cracked black pepper corns. Lemon zest is mashed and mixed with the pepper allowing the citrus oil to infuse into the pepper.<br>Contents net weight 200 grams / Approx 7.5 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598628515925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>425859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598614851669</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/italian-spice-mix"/>
+    <title>Italian Herbs &amp; Spice Mix</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/italian-herbs-spice.jpg?v=1600884736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            9.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="itemcontent itemcontentdetails">
+<div class="ItemDescription">
+<div>
+<p>A combination of the best of the classic herbs used in the Italian kitchen and mixed them in the proper amounts to create this Village foods blend. We used dried herbs mixture of thyme, oregano, basil, marjoram, rosemary and more.<br>Contents net weight 70 grams / Approx 2.47 Oz</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598614851669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.10</s:price>
+      <s:sku>424272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598604824661</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/greek-salad-spice"/>
+    <title>Greek Salad Spice</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/greek-salad-spice.jpg?v=1600884726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A great combination of spices that include Oregano as a base spice element. Use this spice over your salad for an amazing taste.You can also use with all types of vegetables, beef, chicken, fish, pork, game, seafood and veggies. Add to sauces, marinades, soups or stews.<br>Storage: Store in a dry place<br>Contents net weight 55 grams / Approx 1.95 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598604824661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.10</s:price>
+      <s:sku>427211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598597779541</id>
+    <published>2020-04-14T12:38:28-04:00</published>
+    <updated>2020-04-14T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/nutmeg-powder"/>
+    <title>Nutmeg Powder</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/nutmeg-powder.jpg?v=1600884747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            7.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nutmeg has a special warm and aromatic flavor, It is widely used in the Middle Eastern cooking and used for soups, sauces and baked products, syrups, beverages and sweets. Made out of Grinding the dried seed of the Nutmeg tree.<br></span><span>Storage: Store in a dry place.<br>Net weight 150 grams / Approx 5.3 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598597779541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku>424362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/3539431751780</id>
+    <published>2019-06-08T10:44:05-04:00</published>
+    <updated>2019-06-08T10:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/montreal-steak-spice"/>
+    <title>Montreal Steak Spice</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/montreal-steak-mix-1.jpg?v=1600884747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Village Foods Montreal Steak Spice is a special blend of <span>coarsely ground peppers, garlic and </span>spices to create a wonderful seasoning for your special meal.<br>Product: Granulated Mix<br>Country of origin: Mix<br>Taste / Aroma: Spicy<br>Storage: Store in a dry place<br>Net weight: 205 grams / Approx 7.23 Oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/3539431751780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>424180</s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/3539431063652</id>
+    <published>2019-06-08T10:43:28-04:00</published>
+    <updated>2019-06-08T10:43:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/montreal-chicken-spice"/>
+    <title>Montreal Chicken Spice</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/montreal-chicken-mix-1.jpg?v=1600884748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            7.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Village Foods Montreal Chicken Spice consist of a Special Mix of<span> salt, coarse ground black pepper, dehydrated garlic, some onion powder, paprika and more. No MSG added.<br></span>Product: Granulated Mix<br>Country of origin: Mix<br>Taste / Aroma: Spicy<br>Storage: Store in a dry place<br>Net weight: 235 grams / Approx 8.29 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>healthy Tea
+Herbal detox</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/3539431063652</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.10</s:price>
+      <s:sku>425804</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/3539430441060</id>
+    <published>2019-06-08T10:42:53-04:00</published>
+    <updated>2019-06-08T10:42:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/fajita-mix"/>
+    <title>Fajita Mix</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/fajita-mix-1.jpg?v=1600884706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Village Foods Fajita Mix is a seasoning blend of chili powder, salt, paprika, cumin, garlic powder, onion powder, and a bit of cayenne pepper mixed to create a wonderful spicy mixture. <br>Product: Powder<br>Country of origin: Mix<br>Taste / Aroma: Hot<br>Storage: Store in a dry place<br>Contents net weight: 150 grams / Approx 5.3 Oz<br><br><br><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/3539430441060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>427181</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/3539409928292</id>
+    <published>2019-06-08T10:22:18-04:00</published>
+    <updated>2019-06-08T10:22:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/fattouche"/>
+    <title>Fattouche Spice Mix</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/fattouche.jpg?v=1602113931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Village Foods Fattouche Spice Mix, a salad mix of Lebanese origin. Mix with your salad to create an amazing taste.<br></span><span>Product: Granulated rubbed Mix</span><br><span>Country of origin: Mix <br>Taste / Aroma: Sour Sweet <br>Storage: Store in a dry place<br>Net weight: 125 grams / Approx 4.4 Oz</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>Fattouche</s:tag>
+    <s:tag>fbtt4_lebanese-spices-combo-bundle</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>Premium mix</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/3539409928292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>426429</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2032434806884</id>
+    <published>2018-12-29T17:03:20-05:00</published>
+    <updated>2018-12-29T17:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/yellow-mustard-seeds"/>
+    <title>Yellow Mustard Seeds</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Yellow-mustard-seeds.jpg?v=1600884803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Yellow Mustard Seeds has a spicy zing flavor that is excellent for all types of meats, pork, poultry, and seafood. They are kept whole as is and added to give a spicy flavor.<br>Storage: Store in a dry dark place</span></p>
+<p><span>Contents Net weight: 210 grams / Approx 7.40 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2032434806884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>426979</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2032429891684</id>
+    <published>2018-12-29T17:03:20-05:00</published>
+    <updated>2018-12-29T17:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/yellow-mustard-powder"/>
+    <title>Yellow Mustard Powder</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Yellow-Mustard-Powder.jpg?v=1600884803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ground Powder Mustard has a spicy zing flavor that is excellent for salad dressing and creating sauce. Basically created by cracking, mashing of Yellow Mustard Seeds, It can be used to create a hot spicy flavor to dishes.<br></span><span>Storage: Store in a dry place</span></p>
+<p><span>Contents Net weight: 125 grams / Approx 4.41 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2032429891684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>426054</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2032420225124</id>
+    <published>2018-12-29T17:03:20-05:00</published>
+    <updated>2018-12-29T17:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/white-pepper"/>
+    <title>White Pepper Powder</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/white-pepper_cb50a639-8886-4fae-8149-f2d9724b4ecf.jpg?v=1600884803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>White peppercorns, are soaked before being dried, the outer layer comes off revealing the smooth and white surface beneath. White pepper has a light fresh bite. It is used </span><span>grounded to add flavor to soups, marinades for meat and poultry.<br>Taste / Aroma: Hot<br>Storage: Store in a dry place<br>Contents Net weight: 140 grams / Approx 4.93 Oz<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2032420225124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.49</s:price>
+      <s:sku>423879</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2032415801444</id>
+    <published>2018-12-29T17:03:20-05:00</published>
+    <updated>2018-12-29T17:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/turmeric-powder"/>
+    <title>Turmeric Powder</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/turmeric.jpg?v=1600884794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turmeric is known for its health benefits and is <span>Considered a super food </span>, turmeric is a powder ground from the plants rhizome. Turmeric is a main ingredient in many Indian originating dishes such as marsala and curry. <br>Product sold as: Powder<br>Country of origin: India<br>Taste / Aroma: Hot<br>Storage: Store in a dry place<br>Contents Net weight: 140 grams / Approx 4.93 Oz<br><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2032415801444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.49</s:price>
+      <s:sku>423893</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2032406986852</id>
+    <published>2018-12-29T17:03:20-05:00</published>
+    <updated>2018-12-29T17:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/thyme"/>
+    <title>Thyme Rubbed</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/thyme_dac2fbf9-8b3e-43a2-b01c-7ac0421e58ba.jpg?v=1600884793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rubbed thyme is dried Thyme that is merely mashed and rubbed into a powder. Use it to compliment foods like chicken, fish or vegetables before roasting. Dried thyme is most often added to soups, stews, oils and to create a special vinegar. <br>Store in a dry place</p>
+<p><span>Contents Net weight  80 grams / Approx  2.82 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2032406986852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>424210</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2032306028644</id>
+    <published>2018-12-29T17:03:20-05:00</published>
+    <updated>2018-12-29T17:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/tarragon"/>
+    <title>Tarragon</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Tarragon.jpg?v=1600884793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tarragon has a very specific Anise aroma, it is many useful applications such as with poultry and seafood. It gives a strong taste and can be combined with vegetables &amp; create sauces. <br></span><span>Storage: Store in a dry place<br>Contents Net weight  30 grams / Approx  1.06 Oz<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk herbs</s:tag>
+    <s:tag>bulk spices</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>herbs and spices</s:tag>
+    <s:tag>spices</s:tag>
+    <s:tag>spices
+Herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2032306028644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>426726</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

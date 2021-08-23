@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.villagefoods.ca/blogs/best-recipes-just-for-you.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/blogs/best-recipes-just-for-you"/>
+  <link rel="self" type="application/atom+xml" href="https://www.villagefoods.ca/blogs/best-recipes-just-for-you.atom"/>
+  <title>Village Foods Montreal  - Best recipes just for you</title>
+  <updated>2020-04-14T04:54:00-04:00</updated>
+  <author>
+    <name>Village Foods Montreal </name>
+  </author>
+  <entry>
+    <id>https://www.villagefoods.ca/blogs/best-recipes-just-for-you/best-lebanese-taboule-youve-ever-had</id>
+    <published>2020-04-14T04:54:00-04:00</published>
+    <updated>2020-09-23T14:10:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/blogs/best-recipes-just-for-you/best-lebanese-taboule-youve-ever-had"/>
+    <title>Best Lebanese Tabbouleh you&apos;ve ever had</title>
+    <author>
+      <name>Tony Safi</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p>Hey guys</p>
+<p>I want to help you create the best lebanese tabbouleh ever. Just read on and lets get to it. We need the below ingredients...</p><p><a class="read-more" href="https://www.villagefoods.ca/blogs/best-recipes-just-for-you/best-lebanese-taboule-youve-ever-had">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Hey guys</p>
+<p>I want to help you create the best lebanese tabbouleh ever. Just read on and lets get to it. We need the below ingredients:<br> <br><br> a- 1/2 cup of #1 fine grade bulgur wheat.<br> b- 3 bunches of fresh parsley<br> c- 1 pint diced tomatoes<br> d- 6 sprigs fresh mint, finely chopped.<br> e- juice of 2 medium sized lemons<br>f-  75 ml extra-virgin olive oil<br> g- 1/2 teaspoon salt<br> h- 1/4 teaspoon of smashed garlic<br> i-  (Optional) black pepper, to taste.<br>j-  <span>Village foods tabbouleh mix.<br></span><br> <a href="http://villagefoods.ca/cart/add?id=18871639081060&amp;quantity=1">Buy Tabbouleh spice jar</a></p>
+<p>The real action is in the prepare part, chop...chop...chop...</p>
+<p>The greatest part is to create the combo. Just mix everything when you are ready to serve. The result would really amaze you.</p>
+<p>let me know</p>
+<p>Kim</p>]]>
+    </content>
+  </entry>
+</feed>

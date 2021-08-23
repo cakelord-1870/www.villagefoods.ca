@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.villagefoods.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.villagefoods.ca/collections/herbal-tea.atom"/>
+  <title>Village Foods Montreal </title>
+  <updated>2020-11-24T21:14:30-05:00</updated>
+  <author>
+    <name>Village Foods Montreal </name>
+  </author>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4811041013845</id>
+    <published>2020-11-24T21:14:30-05:00</published>
+    <updated>2020-11-24T21:14:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/lavender-pyramid-teabags"/>
+    <title>Lavender Pyramid Teabags</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Tea-lavendar-pyramids.jpg?v=1605913311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lavender has a subtle, calming essence bring delight and benefits that can help support a healthy body <i>&amp;</i><span> mind. It has an</span> elevating, soothing color and potently relaxing aroma, which makes it one of the most admired herbs worldwide. 
+<p>It is used to relieve anxiety and support regular and healthy sleep, to even supposedly improving brain function.</p>
+<p><span data-mce-fragment="1">Usually </span><span data-mce-fragment="1">Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span><br></p>
+<p><span>Storage: Store in a dry place </span></p>
+<p><span>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span></p>
+<p>Lavender tea bags ( x 20 Triangular TeaBags)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4811041013845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>424586-1</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4811039998037</id>
+    <published>2020-11-24T21:13:09-05:00</published>
+    <updated>2020-11-24T21:13:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/jasmine-pyramid-teabags"/>
+    <title>Jasmine Pyramid Teabags</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Tea-jasmine-pyramids.jpg?v=1605913067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span>This aromatic and flavorful floral scented tea is created of dried green tea leaves that allows for the essence of the jasmine blossoms to fully absorb, a process that takes several days to complete. It has a fragrant, refreshing aroma that combined benefits of both jasmine flower and green tea, it has a delightfully drinkable taste. It is a</span></span>ntioxidant-rich, elevates mood and has a calming effect.<br>Store in a dry place.<br>For best results steep for 2-3 minutes in 190-200° F (87-93° C) water  and just short of boiling.<br></p>
+<p><span>Storage: Store in a dry place </span></p>
+<p><span>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span></p>
+<p>Jasmine tea bags ( x 20 Triangular TeaBags)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4811039998037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.90</s:price>
+      <s:sku>424579-1</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4811039539285</id>
+    <published>2020-11-24T21:09:32-05:00</published>
+    <updated>2020-11-24T21:09:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/copy-of-green-tea-jasmine"/>
+    <title>Green Tea-Jasmine Pyramid Teabags</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Tea-greentea-jasmine-pyramids.jpg?v=1605913014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Jasmine tea has green tea as the tea base; however, The resulting combition results in a subtly sweet and highly fragrant flavor. It is one of the most famous scented tea around. </span>Store in a dry place<br></p>
+<p><span>Storage: Store in a dry place </span></p>
+<p><span>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span></p>
+<p>Green Tea - Jasmine tea bags ( x 20 Triangular TeaBags)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4811039539285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>424647-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599974428757</id>
+    <published>2020-10-07T23:25:19-04:00</published>
+    <updated>2020-10-07T23:25:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/rose-herbal"/>
+    <title>Rose Herbal</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/rose.jpg?v=1601226618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rose tea is an aromatic herbal beverage made from the fragrant petals and buds of the Rose flower. Village foods herbal rose tea has a light tangy taste and is pure rose content<br>Finest quality dried Roses Buds, sweet &amp; pleasant. Rose Buds are good for health and provides vitamins &amp; minerals, helps with stress. Rich in antioxidants and contains Vitamin C with a nice smell.<br><span data-mce-fragment="1">Usually </span><span data-mce-fragment="1">Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).<br>Storage: Store in a dry place.<br></span><span data-mce-fragment="1">Contents Net weight 60 grams / Approx 2.12 Oz</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599974428757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>421875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599976394837</id>
+    <published>2020-10-07T23:23:50-04:00</published>
+    <updated>2020-10-07T23:23:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/linden-herbal-tisane"/>
+    <title>Linden Herbal Tisane</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Linden-Tisane.jpg?v=1601226618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Linden Leaf Tea helps calm the body and reduces anxiety and stress. Linden is also known to reduce inflammation, it is light and fragrant, easy to enjoy at any time of the day. Linden is well</span> acknowledged <span>that drinking Linden Leaf Tea reduce your stress and soothe a sore throat and can give you some energy.<br>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).<br></span>Contents net weight 15 grams / Approx 0.52 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599976394837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4598488629333</id>
+    <published>2020-10-07T23:23:49-04:00</published>
+    <updated>2020-10-07T23:23:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/forget-me-not-1"/>
+    <title>Forget Me Not</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Forget-Me-Not-Flower.png?v=1600884706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Forget me Not is a plant native to China, has a natural sweet fragrance and taste. <span>This Herbal Tea is made from wholesome and authentic ingredients, with no added artificial flavors, sugars, colors or preservatives. </span>The buds are plucked young and then dried. Infuse and enjoy.</p>
+<p><span data-mce-fragment="1">Usually </span><span data-mce-fragment="1">Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span><br>Contents net weight 25 grams / Approx 0.88 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4598488629333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.49</s:price>
+      <s:sku>424555</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992390312036</id>
+    <published>2020-10-07T23:23:49-04:00</published>
+    <updated>2020-10-07T23:23:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/forget-me-not-rose"/>
+    <title>Forget me not &amp; Rose</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Untitled-1.jpg?v=1600884716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A special Village Foods blend of Herbal flowers and leaves to create a great beverage. Dried rose petals <span>fresh taste and an elegant fragrance.<br>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).<br></span>Storage: Store in a dry place.<br>Contents net weight 35 grams / Approx 1.24 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992390312036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992144257124</id>
+    <published>2020-10-07T23:23:48-04:00</published>
+    <updated>2020-10-07T23:23:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/lily"/>
+    <title>Lily</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Lily.jpg?v=1600884736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lily is known to promote good heart health and lower your blood pressure. It can also help you to get better sleep. It smells sweet with a great aroma and smooth finish.<br></span><span>Storage: Store in a dry place.</span></p>
+<p><span>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span></p>
+<p><span><br></span>Contents net weight 40 grams / Approx 1.41 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992144257124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.49</s:price>
+      <s:sku>888959424593</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992104542308</id>
+    <published>2020-10-07T23:23:47-04:00</published>
+    <updated>2020-10-07T23:23:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/lavender"/>
+    <title>Lavender</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Lavender.jpg?v=1600884736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lavender has a subtle, calming essence bring delight and benefits that can help support a healthy body <i>&amp;</i><span> mind. It has an</span> elevating, soothing color and potently relaxing aroma, which makes it one of the most admired herbs worldwide. 
+<p>It is used to relieve anxiety and support regular and healthy sleep, to even supposedly improving brain function.</p>
+<p><span data-mce-fragment="1">Usually </span><span data-mce-fragment="1">Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span><br>Contents net weight 50 grams / Approx 1.76 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992104542308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>424586</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992068038756</id>
+    <published>2020-10-07T23:23:47-04:00</published>
+    <updated>2020-10-07T23:23:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/jasmine"/>
+    <title>Jasmine</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Jasmine.jpg?v=1600884736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span>This aromatic and flavorful floral scented green tea is created of dried green tea leaves that allows for the essence of the jasmine blossoms to fully absorb, a process that takes several days to complete. It has a fragrant, refreshing aroma that combined benefits of both jasmine flower and green tea, it has a delightfully drinkable taste. It is a</span></span>ntioxidant-rich, elevates mood and has a calming effect.<br>Store in a dry place.<br>For best results steep for 2-3 minutes in 190-200° F (87-93° C) water  and just short of boiling.<br>Contents net weight 37 grams / Approx 1.3 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992068038756</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.90</s:price>
+      <s:sku>424579</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992064565348</id>
+    <published>2020-10-07T23:23:46-04:00</published>
+    <updated>2020-10-07T23:23:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/lemon-grass"/>
+    <title>Lemon Grass</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/LemonGrass.jpg?v=1600884736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lemon Grass Tea is considered to be a detox tea. It is packed with antioxidants. It helps in removal of toxins from the body and acts as a cleansing Herbal Tea. Lemongrass helps with high blood pressure.</span></p>
+<p><span>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).<br></span>Contents 43 grams / Approx 1.51 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992064565348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>428072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992120860772</id>
+    <published>2020-10-07T23:22:33-04:00</published>
+    <updated>2020-10-07T23:22:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/chamomile-mix"/>
+    <title>Chamomile Mix</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Camomille-mix.jpg?v=1600884658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specialty Herbal mix of Chamomile, jasmine, forget me not, linden, verbena and lili. Very relaxing beverage and widely used in north America. Keep you calm, relaxed and full of energy.</p>
+<p>Usually Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).<br><span>Storage: Store in a dry place </span><br>Contents net weight 35 grams /Approx 1.25 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>fbtt4_earl-grey-combo-gift</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992120860772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1992116928612</id>
+    <published>2020-10-07T23:22:32-04:00</published>
+    <updated>2020-10-07T23:22:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/chamomile"/>
+    <title>Chamomile</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Camomille.jpg?v=1600884657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal <br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chamomile herbal tea flowers are naturally caffeine-free infusion It is an excellent drink with soothing aroma and calming effects, making it the perfect night cap. The light golden brew has a sweet, light calm taste.</p>
+<p><span data-mce-fragment="1">Usually </span><span data-mce-fragment="1">Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span><br><span>Storage: Store in a dry place </span><br>Contents net weight 35 grams / Approx 1.25 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>fbtt4_earl-grey-combo-gift</s:tag>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1992116928612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.49</s:price>
+      <s:sku>424548</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/1991722074212</id>
+    <published>2020-10-07T23:20:51-04:00</published>
+    <updated>2020-10-07T23:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/verbana"/>
+    <title>Verbana</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Teaaura - Village foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Verbena-1.jpg?v=1600884793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teaaura - Village foods Montreal<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            9.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Relaxant Tea herb qualities mean that it can be drunk to sooth stomach cramps and pain. Use with Lemon for a great taste and a calming Tea for mind and body: it's well-known for relieving stress and nervousness.<br><span data-mce-fragment="1">Usually </span><span data-mce-fragment="1">Herbal Tisanes  are best to steep for around 4 minutes in 200-212° F (93-100° C) water (boiling).</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Tisane</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/1991722074212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4782067023957</id>
+    <published>2020-10-05T06:57:33-04:00</published>
+    <updated>2020-10-05T06:57:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/village-sampler-pack"/>
+    <title>Village Tea Sampler Pack</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/3-pyramid--tea-bags.jpg?v=1601893786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will receieve a special combo of samples of our Village Tea that is ready to steep in our pyramid Tea Bags.</p>
+<p>5 Teabags of our Earl Grey Blend<br>5 Teabags of Green Tea with Jasmine<br>5 Teabags of Premium Black Tea<br>5 Teabags of Village Green Tea</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915" alt="bio-degradable" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915">Shipped to you in an Eco friendly biodegradable composte Packaging.</p>
+<h6><strong>50% OFF for sampler pack. Please use code tea4usampler @ checkout</strong></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>healthy Tea
+Herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4782067023957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4783835709525</id>
+    <published>2020-10-05T06:57:07-04:00</published>
+    <updated>2020-10-05T06:57:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/village-herbal-tea-sampler-pack"/>
+    <title>Village Herbal Tea Sampler Pack</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/2-pyramid-herbal-tea-bags.jpg?v=1601893744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will receieve a special combo assortment of samples of our Village Herbal Tea that is ready to steep in our pyramid Tea Bags.</p>
+<p>5 Teabags of Chamomile Blend<br>5 Teabags of Green Tea with Jasmine<br>5 Teabags of our Hibiscus Herbal Tisane<br>5 Teabags of Village Rose Herbal Tea</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915" alt="bio-degradable" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0073/7683/0564/files/bio-18_480x480.png?v=1601608915">Shipped to you in an Eco friendly biodegradable composte Packaging.</p>
+<h6><strong>50% OFF for sampler pack. Please use code tea4usampler @ checkout</strong></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Healthy Tea</s:tag>
+    <s:tag>healthy Tea
+Herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4783835709525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/2898125553764</id>
+    <published>2019-02-24T15:10:31-05:00</published>
+    <updated>2019-02-24T15:10:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/green-tea-jasmine"/>
+    <title>Green Tea-Jasmine</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Village foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/GreenTea-Jasmine_c79c04f0-be7d-44ef-9c22-0e1769e0d3b3.jpg?v=1600884726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village foods Montreal <br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Jasmine tea has green tea as the tea base; however, The resulting combition results in a subtly sweet and highly fragrant flavor. It is one of the most famous scented tea around. </span>Store in a dry place<br>Contents net weight 90 grams / Approx 3.18 Oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>healthy Tea</s:tag>
+    <s:tag>herbal detox</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/2898125553764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>424647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

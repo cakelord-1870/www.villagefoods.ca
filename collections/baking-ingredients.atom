@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.villagefoods.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.villagefoods.ca/collections/baking-ingredients.atom"/>
+  <title>Village Foods Montreal </title>
+  <updated>2020-11-24T21:33:10-05:00</updated>
+  <author>
+    <name>Village Foods Montreal </name>
+  </author>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4811078860885</id>
+    <published>2020-11-24T21:33:10-05:00</published>
+    <updated>2020-11-24T21:33:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/baking-soda"/>
+    <title>Baking Soda</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Baking-soda.jpg?v=1606271125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baking soda is a leavening agent used in baked goods like cakes, muffins, and cookies.It is Sodium bicarbonate which is a salt composed of a sodium cation and a bicarbonate anion. It is white fine powder that is crystalline. In addition it can be used as <span data-mce-fragment="1">Hand, face and body scrub also for oral hygiene and throat gargle. Antacid digestive to eliminate stomach acid. Remember it can be used absorb bad odors.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4811078860885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>428538</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4765882089557</id>
+    <published>2020-09-25T09:34:22-04:00</published>
+    <updated>2020-09-25T09:34:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/instant-yeast"/>
+    <title>Instant Yeast</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Instant-yeast-1000.jpg?v=1600884726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal<br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            2.74 - 3.89
+            <a href="https://www.villagefoods.ca/products/instant-yeast">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Instant Yeast, product of Canada.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Ingredients</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4765882089557</id>
+      <title>Large</title>
+      <s:price currency="USD">3.89</s:price>
+      <s:sku>Instant-Yeast-LG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4765882089557</id>
+      <title>Small</title>
+      <s:price currency="USD">2.74</s:price>
+      <s:sku>Instant-Yeast-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599759700053</id>
+    <published>2020-04-15T12:37:24-04:00</published>
+    <updated>2020-04-15T12:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/vanilin-powder"/>
+    <title>Vanillin Powder</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/vanilin-powder.jpg?v=1600884793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Storage: Store in a dry place<br>Contents Net weight: 10 grams / Approx 0.35 Oz<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baking ingredients</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599759700053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>427129</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599755472981</id>
+    <published>2020-04-15T12:37:24-04:00</published>
+    <updated>2020-04-15T12:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/chocolate-bits-large"/>
+    <title>Chocolate Kisses</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Choco-bits-large.jpg?v=1600884674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Village foods <span>Chocolate Kisses or chocolate morsels are small chips of  chocolate. The large is size semi-sweet, and the smaller size is made with dark chocolate.<br> </span><span>Used for desserts, cakes, bread, trail mix and more.</span><span><br></span>Storage:Store in a dry place<br><span>Contents net weight 425 grams / Approx 15 Oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599755472981</id>
+      <title>Large</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599755472981</id>
+      <title>Small</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599753375829</id>
+    <published>2020-04-15T12:37:24-04:00</published>
+    <updated>2020-04-15T12:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/cocoa-powder"/>
+    <title>Cocoa Powder</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Cocoa-powder.jpg?v=1600884686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cocoa powder ia an unsweetened chocolate product that can be used to add chocolate flavor to desserts and beverages. Cocoa powder occurs after the fatty cocoa butter is removed from cacao beans and the leftover dried and grounded as powder.<br>Storage:Store in a dry place<br></p>
+<p>Contents net weight: 150 grams / Approx 5.3 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Ingredients</s:tag>
+    <s:tag>Cocoa</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599753375829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>427341</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599748165717</id>
+    <published>2020-04-15T12:30:39-04:00</published>
+    <updated>2020-04-15T12:30:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/baking-powder"/>
+    <title>Baking Powder</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/Baking-powder-lg.jpg?v=1600884647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            5.75 - 8.45
+            <a href="https://www.villagefoods.ca/products/baking-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baking powder is a raising agent that is used in cake making. Basically made from bicarbonate of soda, acid, cream of tartar, like cornflour. Self-raising flour is a result of plain flour combined with a little of baking powder.<br>Store in a dry place. We have 2 sizes available.<br>Contents net weight 225 grams / Approx 8 Oz or 450 grams / Approx 15.85 Oz</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Ingredients</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599748165717</id>
+      <title>225 grams</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>420984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599748165717</id>
+      <title>450 grams</title>
+      <s:price currency="USD">8.45</s:price>
+      <s:sku>421493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599745249365</id>
+    <published>2020-04-15T12:30:39-04:00</published>
+    <updated>2020-04-15T12:30:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/corn-flour"/>
+    <title>Corn Flour</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/corn-flour.jpg?v=1600884695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corn flour is milled from dried whole corn kernels. It is a whole grain flour which is usually yellow or white. The texture is fine and smooth, similar to whole wheat flour. Corn flour is used for breads, muffins, waffles, pancakes, battered and fried recipes and more.<br><span>Storage: Store in a dry place </span>more<br>Contents net weight 320 grams / Approx 11.3 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Ingredients</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599745249365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>421318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.villagefoods.ca/products/4599738138709</id>
+    <published>2020-04-15T11:30:13-04:00</published>
+    <updated>2020-04-15T11:30:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.villagefoods.ca/products/corn-starch"/>
+    <title>Corn Starch</title>
+    <s:type>Baking Ingredients</s:type>
+    <s:vendor>Village Foods Montreal </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/7683/0564/products/corn-starch.jpg?v=1600884695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Village Foods Montreal <br>
+        <strong>Type: </strong>Baking Ingredients<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corn Starch is basically used as a thickner, mix Corn Starch with a cold liquid to prevent lumping.Convenient Jar packaging with no mess and easy storage. Corn starch allows the natural flavor of the food to come through, use as a thickener in pies, pudding, custard, and more.<br><span>Storage: Store in a dry place </span><br>Contents net weight 320 grams / Approx 11.3 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Ingredients</s:tag>
+    <s:variant>
+      <id>https://www.villagefoods.ca/products/4599738138709</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>420113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
